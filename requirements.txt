@@ -1,7 +1,5 @@
 ultralytics
 streamlit
-opencv
+opencv-python
 ultralytics
 pillow
-pathlib
-sys
