@@ -51,7 +51,7 @@ streamlit run app.py
 🔹 Ahmed Zeyad Tareq<br>
 🔹 AI Engineer & Data Scientist<br>
 🔹 📷 Instagram: @adlm7<br>
-🔹 🔗 LinkedIn: Ahmed Zeyad Tareq<br>
+🔹 🔗 LinkedIn: [AhmedZeyadTareq](https://www.linkedin.com/in/ahmed-zeyad-tareq)<br>
 
 **⭐ Support**
 --------------
