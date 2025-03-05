@@ -46,8 +46,11 @@ streamlit run app.py
 
 **👨‍💻 Developer**
 ------------------
-
-* **[Your Name]**: [Your GitHub Profile](https://github.com/your-username)
+This project was implemented by:
+🔹 Ahmed Zeyad Tareq.
+🔹 AI Engineer & Data Scientist.
+🔹 📷 Instagram: @adlm7.
+🔹 🔗 LinkedIn: Ahmed Zeyad Tareq.
 
 **⭐ Support**
 --------------
